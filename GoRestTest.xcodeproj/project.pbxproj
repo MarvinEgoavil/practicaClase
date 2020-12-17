@@ -60,6 +60,7 @@
 		0A294BC0258BA30F00CB60C6 /* GoRestTest */ = {
 			isa = PBXGroup;
 			children = (
+				0A294BCF258BA31100CB60C6 /* Info.plist */,
 				0A294BD7258BA60500CB60C6 /* SupportFiles */,
 				0A294BC5258BA30F00CB60C6 /* ViewController.swift */,
 				0A294BD5258BA35D00CB60C6 /* NetworkManager.swift */,
@@ -75,7 +76,6 @@
 				0A294BC3258BA30F00CB60C6 /* SceneDelegate.swift */,
 				0A294BC7258BA30F00CB60C6 /* Main.storyboard */,
 				0A294BCA258BA31100CB60C6 /* Assets.xcassets */,
-				0A294BCF258BA31100CB60C6 /* Info.plist */,
 				0A294BCC258BA31100CB60C6 /* LaunchScreen.storyboard */,
 			);
 			path = SupportFiles;
